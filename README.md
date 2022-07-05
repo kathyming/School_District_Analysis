@@ -10,18 +10,14 @@ The purpose of this analysis was to see if there a correlation between test scor
 * School Summary: Removing the unvalidated 9th grade math and reading scores for Thomas High School from the data frame appears to have little to no effect on the school summary scores.
 #### School Summary - Clean Data
 ![school_summary_clean](https://user-images.githubusercontent.com/106352711/176973562-032e0864-23d9-4df5-968a-cbe1d38a87e7.png)
-### School Rankings: Similar to the District Summary, the School Summary was not notieably altered by the removal of the Thomas High School 9th grade scores.  Thomas High School remained in second place when ranked by Overall Passing %.
+* School Rankings: Similar to the District Summary, the School Summary was not notieably altered by the removal of the Thomas High School 9th grade scores.  Thomas High School remained in second place when ranked by Overall Passing %.
 #### Top Performing Schools - Clean Data
 ![top_schools_overall_passing](https://user-images.githubusercontent.com/106352711/176973403-c5ae40f2-297e-429c-b499-f67bc0740e68.png)
-#### Thomas High School 9th Grade Scores
-#### Math and Reading Scores by Grade
-Summarize how removing these effected scores by grade
-#### Scores by School Spending
-Summarize how removing scores effected scores by school spending
-#### Scores by School Size
-Summarize how removing scores effected scores by school size
-#### Scores by School Type
-Summarize how removed scores effected scores by school type.
+* Thomas High School 9th Grade Scores
+  * Math and Reading Scores by Grade: Summarize how removing these effected scores by grade
+  * Scores by School Spending: Summarize how removing scores effected scores by school spending
+  * Scores by School Size: Summarize how removing scores effected scores by school size
+  * Scores by School Type: Summarize how removed scores effected scores by school type.
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninty grade at Thomas High School have been updated with NaNs.
