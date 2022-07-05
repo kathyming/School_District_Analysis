@@ -20,16 +20,18 @@ The purpose of this analysis was to see if there a correlation between test scor
 ## Summary
 After reading and math scores for the 9th grade at Thomas High School were removed from the datat, there appear to be no changes to the restults.  However, in analyzing the data, the following condulsions can be made:
 * Charter Schools had much better grades than District Schools.
-* ![scores_by_type](https://user-images.githubusercontent.com/106352711/177390255-75c22ab9-49d3-4fae-b233-02fdaa528597.png)
+![scores_by_type](https://user-images.githubusercontent.com/106352711/177390255-75c22ab9-49d3-4fae-b233-02fdaa528597.png)
 
 * The size of a school had a negative impact on scores.  The larger the school, the lower the scores.
-* ![scores_by_size](https://user-images.githubusercontent.com/106352711/177390273-058fa69e-50ef-4bde-a090-17d259376c6c.png)
+![scores_by_size](https://user-images.githubusercontent.com/106352711/177390273-058fa69e-50ef-4bde-a090-17d259376c6c.png)
 
 * A larger the shcool's budget did not result in better test scores.  As spending rose, passing percentages declined.
-* ![scores_by_spending](https://user-images.githubusercontent.com/106352711/177390317-8a26824b-a2dd-4754-b230-fe17330c080f.png)
+![scores_by_spending](https://user-images.githubusercontent.com/106352711/177390317-8a26824b-a2dd-4754-b230-fe17330c080f.png)
 
 * School test scores appeared to be consistent across grade levels.  
-* ![math_scores_by_grade](https://user-images.githubusercontent.com/106352711/177390331-9333ec6d-c7f3-418a-aec9-938537518734.png)
+ * Math Scores by Grade
+![math_scores_by_grade](https://user-images.githubusercontent.com/106352711/177390331-9333ec6d-c7f3-418a-aec9-938537518734.png)
+ * Reading Scores by Grade
 ![reading_scores_by_grade](https://user-images.githubusercontent.com/106352711/177390355-087377f4-d8dc-4f71-8c50-1aec38ae394e.png)
 
 Another analysis should be done to see how spending relates to school type.  Charter schools scored much higher than District schools, but did they spend more or less than District schools.  In planing future spending, it would be good to know if Charter shcools are out performing and under spending than District schools.
