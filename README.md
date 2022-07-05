@@ -2,22 +2,22 @@
 ## Overview 
 The purpose of this analysis was to see if there a correlation between test scores and school budget, or school size, or school type.  In order to better analyze the data it was necessary to remove the scores for the 9th graders at Thomas High School due to evidence that some of the scores were altered. 
 ## Results
-* District Summary: Removing the unvalidated 9th grade math and reading scores for Thomas High School from the data frame appears to have little to no effect on the district summary scores. 
-#### District Summary - Original Data
-![district_summary_original](https://user-images.githubusercontent.com/106352711/176973164-b416a3fb-ddd8-4c78-8634-5c7aecb4f57a.png)
-#### District Summary - Clean Data
-![district_summary_clean](https://user-images.githubusercontent.com/106352711/176973186-9579b0bf-15a2-42fd-840f-5a44a8ef730f.png)
-* School Summary: Removing the unvalidated 9th grade math and reading scores for Thomas High School from the data frame appears to have little to no effect on the school summary scores.
+* District Summary: Removing the unvalidated 9th grade math and reading scores for Thomas High School from the data frame appears to have little to no effect on the district summary scores. Overall passing percentage went from 65.17% to 64.9%.
+
+* School Summary: Removing the unvalidated 9th grade math and reading scores for Thomas High School from the data frame appears to have little to no effect on the school summary scores.  Thomas High School's numbers each changed by less than 0.5%.
 
 
 * School Rankings: Similar to the District Summary, the School Summary was not notieably altered by the removal of the Thomas High School 9th grade scores.  Thomas High School remained in second place when ranked by Overall Passing %.
-#### Top Performing Schools - Clean Data
-![top_schools_overall_passing](https://user-images.githubusercontent.com/106352711/176973403-c5ae40f2-297e-429c-b499-f67bc0740e68.png)
+
 * Thomas High School 9th Grade Scores
   * Math and Reading Scores by Grade: Summarize how removing these effected scores by grade
-  * Scores by School Spending: Summarize how removing scores effected scores by school spending
-  * Scores by School Size: Summarize how removing scores effected scores by school size
-  * Scores by School Type: Summarize how removed scores effected scores by school type.
+  * Scores by School Spending: Scores by school spending was not affected at all by removing the 9th grade Thomas High School scores.  Thomas High School falls into the $631-645 spending range.  Overall Passing percentage for this range did not change (62.8%) after the data was cleaned.
+  * Scores by School Size: Scores by school size was not affected by removing the 9th grade Thomas High School scores.  Thomas High School falls into the medium school size range.  Overall passing for this range remained at 90.6%
+  * Scores by School Type: Scores by school typej were not affected at all by removing the 9th grade Thomas High School scores.  Thomas High School is a Charter school.  Overall Passing percentage for for Charter schools remained at 90.4%. 
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninty grade at Thomas High School have been updated with NaNs.
+After reading and math scores for the 9th grade at Thomas High School were removed from the datat, there appear to be no changes to the restults.  However, in analyzing the data, the following condulsions can be made:
+* Charter Schools had much better grades than District Schools.
+* The size of a school had a negative impact on scores.  The larger the school, the lower the scores.
+* A larger shcool budget did not result in better test scores.  As spending rose, passing percentages declined.
+* School test scores appeared to be consistent across grade levels.  
