@@ -29,9 +29,9 @@ After reading and math scores for the 9th grade at Thomas High School were remov
 ![scores_by_spending](https://user-images.githubusercontent.com/106352711/177390317-8a26824b-a2dd-4754-b230-fe17330c080f.png)
 
 * School test scores appeared to be consistent across grade levels.  
- * Math Scores by Grade
+ #### Math Scores by Grade
 ![math_scores_by_grade](https://user-images.githubusercontent.com/106352711/177390331-9333ec6d-c7f3-418a-aec9-938537518734.png)
- * Reading Scores by Grade
+ #### Reading Scores by Grade
 ![reading_scores_by_grade](https://user-images.githubusercontent.com/106352711/177390355-087377f4-d8dc-4f71-8c50-1aec38ae394e.png)
 
 Another analysis should be done to see how spending relates to school type.  Charter schools scored much higher than District schools, but did they spend more or less than District schools.  In planing future spending, it would be good to know if Charter shcools are out performing and under spending than District schools.
